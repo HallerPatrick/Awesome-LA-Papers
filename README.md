@@ -11,6 +11,7 @@ This project is a work in progress. Contributions are welcome!
    - [Architectures](#architectures)
    - [Theoretical Foundations](#theoretical-foundations)
    - [Applications](#applications)
+   - [Other LA Stuff](#other-la-stuff)
 3. [Libraries and Implementations](#libraries-and-implementations)
 4. [Datasets](#datasets)
 5. [Tutorials and Blog Posts](#tutorials-and-blog-posts)
@@ -127,6 +128,11 @@ Linear attention mechanisms have emerged as efficient alternatives to traditiona
 
 - **Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners** (ICLR 2025)  
   [Paper](https://arxiv.org/abs/2502.20339)
+
+### Other LA stuff
+
+- **Subcenters in the Los Angeles Region** (eScholar, 1991) 
+  [Paper](https://escholarship.org/content/qt6ts0t95w/qt6ts0t95w.pdf)
 
 
 ## Libraries and Implementations
